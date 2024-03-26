@@ -1,0 +1,27 @@
+#hero-row{
+    height: 600px;
+}
+
+#logo-made{
+    color: #00B1E9;
+}
+
+#navbar3{
+    background-color: #023B6D;
+}
+
+.navbar-brand{
+    font-size: 22px !important;
+}
+
+#search-field{
+    background-color: #0F4574;
+}
+
+#search-field::placeholder{
+    color: #757575;
+}
+
+body{
+    background-color: #757575 !important;
+}
